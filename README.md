@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @selcukgoktas
-- 👀 I’m interested in Salesforce LWC, Aura, Visual Force, and ReactJs
-- 🌱 I’m currently learning React Redux
+- 👀 I’m interested in Salesforce LWC, Aura, Visual Force, ReactJs, Flutter
+- 🌱 I’m currently working on Salesforce Projects
 - 💞️ I’m ISV PARTNER OF Salesforce
 - 📫 How to reach me ... selcuk@dreamsolutionconsultant.com
 
